@@ -38,19 +38,43 @@ Adept at designing efficient software solutions, I leverage data-driven insights
 ## 🛠️ Tech Stack
 
 ### 💻 Software Engineering
-- **Languages:** Python, Java, C/C++, JavaScript, SQL, HTML/CSS
-- **Concepts:** OOPS, SDLC, Agile, DSA, Problem-Solving
-- **Systems:** Linux, Operating Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Concepts & Systems
+![OOPS](https://img.shields.io/badge/OOPS-Concept-ff69b4?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-Agile-blueviolet?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures-success?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OS](https://img.shields.io/badge/OS-Operating%20Systems-inactive?style=for-the-badge)
 
 ### 📊 Data & Analytics
-- **BI Tools:** Power BI, Tableau, Excel, Microsoft Fabric
-- **Libraries:** Pandas, NumPy, Scikit-Learn
-- **Databases:** MySQL
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### �️ Tools & Frameworks
-- **Web:** Django, Flask, React.js
-- **Design:** Figma, Adobe XD
-- **IDEs:** VS Code, PyCharm, Jupyter
+### 🛠️ Tools & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+<br/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -58,10 +82,10 @@ Adept at designing efficient software solutions, I leverage data-driven insights
 
 | Project | Description | Tech Info |
 |--------|------------|-----------|
-| � **E-Commerce Web App** | Full-stack platform with secure payments, real-time inventory, and mobile-responsive UI. Features personalized recommendations and SEO tools. | `Python (Django/Flask)` `MongoDB` `HTML/CSS` |
+| 🛒 **E-Commerce Web App** | Full-stack platform with secure payments, real-time inventory, and mobile-responsive UI. Features personalized recommendations and SEO tools. | `Python (Django/Flask)` `MongoDB` `HTML/CSS` |
 | 🌦️ **Weather Forecast Tool** | Dynamic dashboard integrating real-time API data. Optimized with DAX measures for 30% faster refresh rates and predictive analysis. | `Power BI` `DAX` `API Integration` |
-| �🛍️ **Retail Sales Analysis** | Analyzed 44k+ records to uncover $13.4M in sales and identified $2.1M in profits. Built interactive dashboards for seasonal trends. | `Power BI` `Excel` `Power Query` |
-| � **Personal Portfolio** | Designed a responsive, accessible portfolio with a focus on UI/UX principles, showcasing projects and skills with interactive elements. | `React.js` `Figma` `Adobe XD` |
+| 🛍️ **Retail Sales Analysis** | Analyzed 44k+ records to uncover $13.4M in sales and identified $2.1M in profits. Built interactive dashboards for seasonal trends. | `Power BI` `Excel` `Power Query` |
+| 🎨 **Personal Portfolio** | Designed a responsive, accessible portfolio with a focus on UI/UX principles, showcasing projects and skills with interactive elements. | `React.js` `Figma` `Adobe XD` |
 
 ---
 
@@ -78,11 +102,6 @@ Adept at designing efficient software solutions, I leverage data-driven insights
 
 ---
 
-
-
----
-
 <div align="center">
   <i>"Transforming complex data into actionable strategic insights."</i>
 </div>
-
