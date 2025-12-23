@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Harini Jajula 👋</h1>
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;Full-Stack+Developer;Business+Intelligence+Specialist;Python+&+Java+Expert" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;Full-Stack+Developer;Business+Intelligence+Specialist" alt="Typing SVG" /></a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=harini475&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
