@@ -1,92 +1,88 @@
 <div align="center">
-  <h1 align="center">Harini Jajula</h1>
-  <h3 align="center">Data Analyst | Business Intelligence Specialist</h3>
-
-  <p align="center">
-    Transforming complex data into actionable strategic insights.
+  <h1>Hi there, I'm Harini Jajula 👋</h1>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst;Full-Stack+Developer;Business+Intelligence+Specialist;Python+&+Java+Expert" alt="Typing SVG" /></a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=harini475&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
   
-  <div align="center">
-    <a href="https://www.linkedin.com/in/harini-jajula" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <p>
+    <a href="https://github.com/harini475">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://github.com/harini475" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://www.linkedin.com/in/harini-jajula">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </div>
+  </p>
 </div>
 
-<br/>
+---
 
 ## 👩‍💻 About Me
 
-I am a highly motivated **Data Analyst** with a passion for uncovering trends and driving business solutions through data. Specializing in **Advanced Analytics**, **Data Visualization**, and **Business Intelligence**, I leverage tools like **Power BI**, **SQL**, and **Python** to optimize processes and deliver measurable impact.
+I am a **Versatile Software Developer** and **Data Analyst** with strong programming expertise in **Python**, **Java**, and **SQL**, combined with proven skills in **Data Analytics** and **Visualization**. 
 
-My goal is to support data-driven decision-making in dynamic organizations by translating raw numbers into clear, strategic narratives.
+Adept at designing efficient software solutions, I leverage data-driven insights to enhance performance and deliver measurable results. My work bridges the gap between robust software engineering and strategic business intelligence.
 
----
-
-## 🛠️ Technical Skills
-
-### **Languages & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Data Science & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### **Business Intelligence & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- 🔭 I’m currently working on **Full-Stack E-Commerce Applications**
+- 🌱 I’m currently learning **Advanced Data Structures & Cloud Analytics**
+- 👯 I’m looking to collaborate on **Open Source Software & Data Science Projects**
+- 💬 Ask me about **Python, Java, Power BI, and System Design**
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-### 🛍️ **Retail Sales Analysis**
-*Dec 2024*  
-**Tools:** Power BI, Excel, Power Query
+### 💻 Software Engineering
+- **Languages:** Python, Java, C/C++, JavaScript, SQL, HTML/CSS
+- **Concepts:** OOPS, SDLC, Agile, DSA, Problem-Solving
+- **Systems:** Linux, Operating Systems
 
-> Uncovered insights on **$13.4M in sales** and **$11.3M in costs** from 44,000+ records.
-- **Key Outcome:** Identified a **$2.1M profit margin** and seasonal patterns to optimize inventory.
-- **Features:** Interactive dashboard tracking top-performing stores, items, and payment methods.
+### 📊 Data & Analytics
+- **BI Tools:** Power BI, Tableau, Excel, Microsoft Fabric
+- **Libraries:** Pandas, NumPy, Scikit-Learn
+- **Databases:** MySQL
 
-### 🌦️ **Weather Analysis Dashboard**
-*Mar 2025*  
-**Tools:** Power BI, DAX, Data Modeling
+### �️ Tools & Frameworks
+- **Web:** Django, Flask, React.js
+- **Design:** Figma, Adobe XD
+- **IDEs:** VS Code, PyCharm, Jupyter
 
-> A dynamic forecast dashboard integrating real-time API data for predictive analysis.
-- **Performance:** Achieved **30% faster refresh rates** using advanced DAX measures.
-- **Insights:** Enabled actionable insights for weather trends and temperature/rainfall prediction logic.
+---
+
+## 🧪 Featured Projects
+
+| Project | Description | Tech Info |
+|--------|------------|-----------|
+| � **E-Commerce Web App** | Full-stack platform with secure payments, real-time inventory, and mobile-responsive UI. Features personalized recommendations and SEO tools. | `Python (Django/Flask)` `MongoDB` `HTML/CSS` |
+| 🌦️ **Weather Forecast Tool** | Dynamic dashboard integrating real-time API data. Optimized with DAX measures for 30% faster refresh rates and predictive analysis. | `Power BI` `DAX` `API Integration` |
+| �🛍️ **Retail Sales Analysis** | Analyzed 44k+ records to uncover $13.4M in sales and identified $2.1M in profits. Built interactive dashboards for seasonal trends. | `Power BI` `Excel` `Power Query` |
+| � **Personal Portfolio** | Designed a responsive, accessible portfolio with a focus on UI/UX principles, showcasing projects and skills with interactive elements. | `React.js` `Figma` `Adobe XD` |
 
 ---
 
 ## 📜 Certifications
+- **Microsoft Fabric Analytics Engineer Associate (DP-600)** - *Microsoft (June 2025)*
+- **Cisco Certified Network Associate (CCNA)** - *Cisco (May 2025)*
+- **Google Cloud Data Analytics Certificate** - *Google Cloud (Feb 2025)*
 
-- **Google Cloud Data Analytics Foundations**
-- **Microsoft Fabric Analytics Engineer (DP-600)** *(In Progress)*
-- **Power BI Data Analyst (PL-300)** *(In Progress)*
+---
+
+## 🏆 Achievements
+- **Project Deployment Milestone** - *Technical Hub (Feb 2025)*
+- **Data Analytics Job Simulation** - *Forage (Tata) (Dec 2024)*
+
+---
+
+
 
 ---
 
 <div align="center">
-  <p>Let's connect and talk data!</p>
-  <a href="https://www.linkedin.com/in/harini-jajula">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
-  </a>
+  <i>"Transforming complex data into actionable strategic insights."</i>
 </div>
 
